@@ -1,0 +1,405 @@
+Combination(TrainFunction = trainscg, LayerTransferFunction = compet)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_AntiResidual_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\CNN\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_AntiResidual_x.m', 198)" style="font-weight:bold">NNExperiment_AntiResidual_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\CNN\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_AntiResidual_x.m',198,0)">line 198</a>)] 
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = elliotsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.835680
+Sensitivity		0.588665
+Specificity		0.923628
+------------------------------
+Corrected estimate...
+------------------------------
+Accuracy		0.834800
+Sensitivity		0.625533
+Specificity		0.909308
+------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = hardlim)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.829600
+Sensitivity		0.599939
+Specificity		0.911369
+------------------------------
+Corrected estimate...
+------------------------------
+Accuracy		0.827440
+Sensitivity		0.619439
+Specificity		0.901497
+------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.825520
+Sensitivity		0.620658
+Specificity		0.898460
+------------------------------
+Corrected estimate...
+------------------------------
+Accuracy		0.818720
+Sensitivity		0.562462
+Specificity		0.909959
+------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.829120
+Sensitivity		0.606947
+Specificity		0.908223
+------------------------------
+Corrected estimate...
+------------------------------
+Accuracy		0.831920
+Sensitivity		0.571298
+Specificity		0.924713
+------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = logsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+------------------------------
+Corrected estimate...
+------------------------------
+Accuracy		0.835360
+Sensitivity		0.590494
+Specificity		0.922543
+------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = poslin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.827040
+Sensitivity		0.635283
+Specificity		0.895314
+------------------------------
+Corrected estimate...
+------------------------------
+Accuracy		0.818000
+Sensitivity		0.632541
+Specificity		0.884031
+------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = purelin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.833920
+Sensitivity		0.632236
+Specificity		0.905728
+------------------------------
+Corrected estimate...
+------------------------------
+Accuracy		0.830560
+Sensitivity		0.574954
+Specificity		0.921567
+------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = radbas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.829280
+Sensitivity		0.608470
+Specificity		0.907898
+------------------------------
+Corrected estimate...
+------------------------------
+Accuracy		0.823040
+Sensitivity		0.537172
+Specificity		0.924821
+------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = radbasn)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_AntiResidual_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\CNN\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_AntiResidual_x.m', 198)" style="font-weight:bold">NNExperiment_AntiResidual_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\CNN\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_AntiResidual_x.m',198,0)">line 198</a>)] 
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = satlin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.833760
+Sensitivity		0.602377
+Specificity		0.916142
+------------------------------
+Corrected estimate...
+------------------------------
+Accuracy		0.831760
+Sensitivity		0.549055
+Specificity		0.932415
+------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = satlins)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.837360
+Sensitivity		0.580134
+Specificity		0.928943
+------------------------------
+Corrected estimate...
+------------------------------
+Accuracy		0.824000
+Sensitivity		0.476234
+Specificity		0.947819
+------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = softmax)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_AntiResidual_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\CNN\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_AntiResidual_x.m', 198)" style="font-weight:bold">NNExperiment_AntiResidual_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\CNN\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_AntiResidual_x.m',198,0)">line 198</a>)] 
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = tansig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.826640
+Sensitivity		0.583790
+Specificity		0.913105
+------------------------------
+Corrected estimate...
+------------------------------
+Accuracy		0.798400
+Sensitivity		0.417124
+Specificity		0.934151
+------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = tribas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.835360
+Sensitivity		0.611517
+Specificity		0.915057
+------------------------------
+Corrected estimate...
+------------------------------
+Accuracy		0.825520
+Sensitivity		0.556673
+Specificity		0.921241
+------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

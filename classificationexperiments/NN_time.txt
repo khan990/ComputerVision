@@ -1,0 +1,2781 @@
+Combination(TrainFunction = trainlm, LayerTransferFunction = compet)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainbr, LayerTransferFunction = compet)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainbfg, LayerTransferFunction = compet)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = traincgb, LayerTransferFunction = compet)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = traincgf, LayerTransferFunction = compet)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = traincgp, LayerTransferFunction = compet)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = traingd, LayerTransferFunction = compet)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = traingda, LayerTransferFunction = compet)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = traingdm, LayerTransferFunction = compet)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = traingdx, LayerTransferFunction = compet)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainoss, LayerTransferFunction = compet)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainrp, LayerTransferFunction = compet)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainscg, LayerTransferFunction = compet)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainb, LayerTransferFunction = compet)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainc, LayerTransferFunction = compet)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainr, LayerTransferFunction = compet)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trains, LayerTransferFunction = compet)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.020902 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainlm, LayerTransferFunction = elliotsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.835040
+Sensitivity		0.616088
+Specificity		0.912996
+Average		0.764542
+------------------------------
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.011741 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainbr, LayerTransferFunction = elliotsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.606880
+Sensitivity		0.488422
+Specificity		0.649056
+Average		0.568739
+------------------------------
+Combination(TrainFunction = trainbfg, LayerTransferFunction = elliotsig)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Elapsed time is 0.011908 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgb, LayerTransferFunction = elliotsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831680
+Sensitivity		0.635283
+Specificity		0.901606
+Average		0.768444
+------------------------------
+Elapsed time is 0.012682 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgf, LayerTransferFunction = elliotsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.830720
+Sensitivity		0.631018
+Specificity		0.901823
+Average		0.766420
+------------------------------
+Elapsed time is 0.012126 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgp, LayerTransferFunction = elliotsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.828000
+Sensitivity		0.576173
+Specificity		0.917661
+Average		0.746917
+------------------------------
+Elapsed time is 0.013199 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingd, LayerTransferFunction = elliotsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.812880
+Sensitivity		0.504875
+Specificity		0.922543
+Average		0.713709
+------------------------------
+Elapsed time is 0.015099 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingda, LayerTransferFunction = elliotsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.832080
+Sensitivity		0.628275
+Specificity		0.904643
+Average		0.766459
+------------------------------
+Elapsed time is 0.013357 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdm, LayerTransferFunction = elliotsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.766240
+Sensitivity		0.415600
+Specificity		0.891083
+Average		0.653341
+------------------------------
+Elapsed time is 0.013142 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdx, LayerTransferFunction = elliotsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.828080
+Sensitivity		0.584095
+Specificity		0.914949
+Average		0.749522
+------------------------------
+Elapsed time is 0.013327 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainoss, LayerTransferFunction = elliotsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.829040
+Sensitivity		0.641987
+Specificity		0.895639
+Average		0.768813
+------------------------------
+Elapsed time is 0.013149 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainrp, LayerTransferFunction = elliotsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.832560
+Sensitivity		0.593845
+Specificity		0.917553
+Average		0.755699
+------------------------------
+Elapsed time is 0.013572 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = elliotsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.837040
+Sensitivity		0.625229
+Specificity		0.912454
+Average		0.768841
+------------------------------
+Combination(TrainFunction = trainb, LayerTransferFunction = elliotsig)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainc, LayerTransferFunction = elliotsig)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainr, LayerTransferFunction = elliotsig)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trains, LayerTransferFunction = elliotsig)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.014473 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainlm, LayerTransferFunction = hardlim)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.826720
+Sensitivity		0.657831
+Specificity		0.886852
+Average		0.772341
+------------------------------
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.013594 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainbr, LayerTransferFunction = hardlim)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.704720
+Sensitivity		0.152346
+Specificity		0.901389
+Average		0.526867
+------------------------------
+Combination(TrainFunction = trainbfg, LayerTransferFunction = hardlim)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Elapsed time is 0.013615 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgb, LayerTransferFunction = hardlim)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831600
+Sensitivity		0.611517
+Specificity		0.909959
+Average		0.760738
+------------------------------
+Elapsed time is 0.014878 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgf, LayerTransferFunction = hardlim)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.829680
+Sensitivity		0.604509
+Specificity		0.909850
+Average		0.757180
+------------------------------
+Elapsed time is 0.013409 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgp, LayerTransferFunction = hardlim)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.832080
+Sensitivity		0.623400
+Specificity		0.906379
+Average		0.764890
+------------------------------
+Elapsed time is 0.015264 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingd, LayerTransferFunction = hardlim)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.754880
+Sensitivity		0.166667
+Specificity		0.964309
+Average		0.565488
+------------------------------
+Elapsed time is 0.013420 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingda, LayerTransferFunction = hardlim)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.833840
+Sensitivity		0.654174
+Specificity		0.897809
+Average		0.775991
+------------------------------
+Elapsed time is 0.016034 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdm, LayerTransferFunction = hardlim)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.753280
+Sensitivity		0.173675
+Specificity		0.959644
+Average		0.566659
+------------------------------
+Elapsed time is 0.013937 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdx, LayerTransferFunction = hardlim)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.813200
+Sensitivity		0.645948
+Specificity		0.872749
+Average		0.759348
+------------------------------
+Elapsed time is 0.013454 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainoss, LayerTransferFunction = hardlim)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.824240
+Sensitivity		0.547532
+Specificity		0.922760
+Average		0.735146
+------------------------------
+Elapsed time is 0.016228 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainrp, LayerTransferFunction = hardlim)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.826480
+Sensitivity		0.601767
+Specificity		0.906487
+Average		0.754127
+------------------------------
+Elapsed time is 0.012445 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = hardlim)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831120
+Sensitivity		0.609080
+Specificity		0.910176
+Average		0.759628
+------------------------------
+Combination(TrainFunction = trainb, LayerTransferFunction = hardlim)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainc, LayerTransferFunction = hardlim)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainr, LayerTransferFunction = hardlim)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trains, LayerTransferFunction = hardlim)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.012383 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainlm, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.829680
+Sensitivity		0.636197
+Specificity		0.898568
+Average		0.767383
+------------------------------
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.012280 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainbr, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.642240
+Sensitivity		0.696831
+Specificity		0.622803
+Average		0.659817
+------------------------------
+Combination(TrainFunction = trainbfg, LayerTransferFunction = hardlims)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Elapsed time is 0.013592 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgb, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.826640
+Sensitivity		0.638026
+Specificity		0.893795
+Average		0.765910
+------------------------------
+Elapsed time is 0.018212 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgf, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.826000
+Sensitivity		0.583181
+Specificity		0.912454
+Average		0.747817
+------------------------------
+Elapsed time is 0.014865 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgp, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.832000
+Sensitivity		0.613346
+Specificity		0.909850
+Average		0.761598
+------------------------------
+Elapsed time is 0.016235 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingd, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.754080
+Sensitivity		0.298294
+Specificity		0.916359
+Average		0.607327
+------------------------------
+Elapsed time is 0.018047 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingda, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.827920
+Sensitivity		0.586533
+Specificity		0.913864
+Average		0.750198
+------------------------------
+Elapsed time is 0.015514 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdm, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.737280
+Sensitivity		0.217550
+Specificity		0.922326
+Average		0.569938
+------------------------------
+Elapsed time is 0.016728 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdx, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.822480
+Sensitivity		0.577392
+Specificity		0.909742
+Average		0.743567
+------------------------------
+Elapsed time is 0.014848 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainoss, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.826320
+Sensitivity		0.590494
+Specificity		0.910284
+Average		0.750389
+------------------------------
+Elapsed time is 0.014088 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainrp, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.821600
+Sensitivity		0.530774
+Specificity		0.925146
+Average		0.727960
+------------------------------
+Elapsed time is 0.011849 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.828240
+Sensitivity		0.637721
+Specificity		0.896073
+Average		0.766897
+------------------------------
+Combination(TrainFunction = trainb, LayerTransferFunction = hardlims)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainc, LayerTransferFunction = hardlims)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainr, LayerTransferFunction = hardlims)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trains, LayerTransferFunction = hardlims)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.016413 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainlm, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.828880
+Sensitivity		0.640463
+Specificity		0.895964
+Average		0.768214
+------------------------------
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.013978 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainbr, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.513840
+Sensitivity		0.459476
+Specificity		0.533196
+Average		0.496336
+------------------------------
+Combination(TrainFunction = trainbfg, LayerTransferFunction = hardlims)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Elapsed time is 0.013233 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgb, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.824160
+Sensitivity		0.556977
+Specificity		0.919288
+Average		0.738133
+------------------------------
+Elapsed time is 0.014767 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgf, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831440
+Sensitivity		0.631322
+Specificity		0.902690
+Average		0.767006
+------------------------------
+Elapsed time is 0.014592 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgp, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.828960
+Sensitivity		0.642291
+Specificity		0.895422
+Average		0.768857
+------------------------------
+Elapsed time is 0.013298 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingd, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.755920
+Sensitivity		0.297684
+Specificity		0.919071
+Average		0.608378
+------------------------------
+Elapsed time is 0.015368 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingda, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.823840
+Sensitivity		0.620963
+Specificity		0.896073
+Average		0.758518
+------------------------------
+Elapsed time is 0.013669 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdm, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.745280
+Sensitivity		0.179768
+Specificity		0.946626
+Average		0.563197
+------------------------------
+Elapsed time is 0.017653 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdx, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.826720
+Sensitivity		0.587142
+Specificity		0.912020
+Average		0.749581
+------------------------------
+Elapsed time is 0.013790 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainoss, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.825760
+Sensitivity		0.566728
+Specificity		0.917987
+Average		0.742357
+------------------------------
+Elapsed time is 0.013167 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainrp, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.827760
+Sensitivity		0.573431
+Specificity		0.918312
+Average		0.745871
+------------------------------
+Elapsed time is 0.014215 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = hardlims)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.826480
+Sensitivity		0.607252
+Specificity		0.904535
+Average		0.755893
+------------------------------
+Combination(TrainFunction = trainb, LayerTransferFunction = hardlims)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainc, LayerTransferFunction = hardlims)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainr, LayerTransferFunction = hardlims)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trains, LayerTransferFunction = hardlims)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.015939 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainlm, LayerTransferFunction = logsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.828320
+Sensitivity		0.581048
+Specificity		0.916359
+Average		0.748704
+------------------------------
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.014567 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainbr, LayerTransferFunction = logsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.682400
+Sensitivity		0.271176
+Specificity		0.828813
+Average		0.549995
+------------------------------
+Combination(TrainFunction = trainbfg, LayerTransferFunction = logsig)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Elapsed time is 0.015798 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgb, LayerTransferFunction = logsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.849360
+Sensitivity		0.595064
+Specificity		0.939900
+Average		0.767482
+------------------------------
+Elapsed time is 0.014398 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgf, LayerTransferFunction = logsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831360
+Sensitivity		0.605424
+Specificity		0.911803
+Average		0.758613
+------------------------------
+Elapsed time is 0.012792 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgp, LayerTransferFunction = logsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.844320
+Sensitivity		0.605424
+Specificity		0.929377
+Average		0.767400
+------------------------------
+Elapsed time is 0.014335 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingd, LayerTransferFunction = logsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.669120
+Sensitivity		0.225168
+Specificity		0.827186
+Average		0.526177
+------------------------------
+Elapsed time is 0.018235 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingda, LayerTransferFunction = logsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.837840
+Sensitivity		0.627971
+Specificity		0.912562
+Average		0.770267
+------------------------------
+Elapsed time is 0.015133 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdm, LayerTransferFunction = logsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.779360
+Sensitivity		0.326630
+Specificity		0.940551
+Average		0.633591
+------------------------------
+Elapsed time is 0.013728 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdx, LayerTransferFunction = logsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.836560
+Sensitivity		0.564290
+Specificity		0.933500
+Average		0.748895
+------------------------------
+Elapsed time is 0.014369 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainoss, LayerTransferFunction = logsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.848640
+Sensitivity		0.653260
+Specificity		0.918204
+Average		0.785732
+------------------------------
+Elapsed time is 0.013607 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainrp, LayerTransferFunction = logsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.843760
+Sensitivity		0.587447
+Specificity		0.935018
+Average		0.761233
+------------------------------
+Elapsed time is 0.013416 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = logsig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.855200
+Sensitivity		0.640158
+Specificity		0.931764
+Average		0.785961
+------------------------------
+Combination(TrainFunction = trainb, LayerTransferFunction = logsig)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainc, LayerTransferFunction = logsig)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainr, LayerTransferFunction = logsig)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trains, LayerTransferFunction = logsig)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.015158 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainlm, LayerTransferFunction = poslin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.829200
+Sensitivity		0.633760
+Specificity		0.898785
+Average		0.766272
+------------------------------
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.014534 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainbr, LayerTransferFunction = poslin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.501520
+Sensitivity		0.522243
+Specificity		0.494142
+Average		0.508192
+------------------------------
+Combination(TrainFunction = trainbfg, LayerTransferFunction = poslin)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Elapsed time is 0.012965 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgb, LayerTransferFunction = poslin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------------------------
+Elapsed time is 0.014626 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgf, LayerTransferFunction = poslin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------------------------
+Elapsed time is 0.016074 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgp, LayerTransferFunction = poslin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831040
+Sensitivity		0.635283
+Specificity		0.900738
+Average		0.768011
+------------------------------
+Elapsed time is 0.014532 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingd, LayerTransferFunction = poslin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.740720
+Sensitivity		0.117611
+Specificity		0.962573
+Average		0.540092
+------------------------------
+Elapsed time is 0.015026 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingda, LayerTransferFunction = poslin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.825520
+Sensitivity		0.633760
+Specificity		0.893795
+Average		0.763777
+------------------------------
+Elapsed time is 0.014226 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdm, LayerTransferFunction = poslin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.748000
+Sensitivity		0.108775
+Specificity		0.975591
+Average		0.542183
+------------------------------
+Elapsed time is 0.012738 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdx, LayerTransferFunction = poslin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.477440
+Sensitivity		0.627971
+Specificity		0.423845
+Average		0.525908
+------------------------------
+Elapsed time is 0.015847 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainoss, LayerTransferFunction = poslin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.830400
+Sensitivity		0.636502
+Specificity		0.899436
+Average		0.767969
+------------------------------
+Elapsed time is 0.011701 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainrp, LayerTransferFunction = poslin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------------------------
+Elapsed time is 0.012076 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = poslin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.828880
+Sensitivity		0.635588
+Specificity		0.897700
+Average		0.766644
+------------------------------
+Combination(TrainFunction = trainb, LayerTransferFunction = poslin)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainc, LayerTransferFunction = poslin)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainr, LayerTransferFunction = poslin)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trains, LayerTransferFunction = poslin)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.013376 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainlm, LayerTransferFunction = purelin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.834560
+Sensitivity		0.609994
+Specificity		0.914515
+Average		0.762254
+------------------------------
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.012570 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainbr, LayerTransferFunction = purelin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.539680
+Sensitivity		0.377818
+Specificity		0.597310
+Average		0.487564
+------------------------------
+Combination(TrainFunction = trainbfg, LayerTransferFunction = purelin)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Elapsed time is 0.015476 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgb, LayerTransferFunction = purelin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.857520
+Sensitivity		0.640768
+Specificity		0.934693
+Average		0.787730
+------------------------------
+Elapsed time is 0.015881 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgf, LayerTransferFunction = purelin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.823360
+Sensitivity		0.517672
+Specificity		0.932198
+Average		0.724935
+------------------------------
+Elapsed time is 0.013473 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgp, LayerTransferFunction = purelin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.845040
+Sensitivity		0.611517
+Specificity		0.928184
+Average		0.769851
+------------------------------
+Elapsed time is 0.015333 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingd, LayerTransferFunction = purelin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.807040
+Sensitivity		0.448202
+Specificity		0.934801
+Average		0.691502
+------------------------------
+Elapsed time is 0.014390 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingda, LayerTransferFunction = purelin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.814800
+Sensitivity		0.606338
+Specificity		0.889021
+Average		0.747680
+------------------------------
+Elapsed time is 0.014115 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdm, LayerTransferFunction = purelin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.511680
+Sensitivity		0.354357
+Specificity		0.567694
+Average		0.461025
+------------------------------
+Elapsed time is 0.015314 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdx, LayerTransferFunction = purelin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.820320
+Sensitivity		0.566118
+Specificity		0.910827
+Average		0.738472
+------------------------------
+Elapsed time is 0.014759 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainoss, LayerTransferFunction = purelin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.828000
+Sensitivity		0.573736
+Specificity		0.918529
+Average		0.746132
+------------------------------
+Elapsed time is 0.012555 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainrp, LayerTransferFunction = purelin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.578640
+Sensitivity		0.451249
+Specificity		0.623997
+Average		0.537623
+------------------------------
+Elapsed time is 0.013635 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = purelin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.821680
+Sensitivity		0.570079
+Specificity		0.911261
+Average		0.740670
+------------------------------
+Combination(TrainFunction = trainb, LayerTransferFunction = purelin)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainc, LayerTransferFunction = purelin)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainr, LayerTransferFunction = purelin)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trains, LayerTransferFunction = purelin)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.016602 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainlm, LayerTransferFunction = radbas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831040
+Sensitivity		0.636197
+Specificity		0.900412
+Average		0.768305
+------------------------------
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.012644 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainbr, LayerTransferFunction = radbas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.651680
+Sensitivity		0.300731
+Specificity		0.776633
+Average		0.538682
+------------------------------
+Combination(TrainFunction = trainbfg, LayerTransferFunction = radbas)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Elapsed time is 0.013261 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgb, LayerTransferFunction = radbas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------------------------
+Elapsed time is 0.013210 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgf, LayerTransferFunction = radbas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------------------------
+Elapsed time is 0.012798 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgp, LayerTransferFunction = radbas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.825200
+Sensitivity		0.556673
+Specificity		0.920807
+Average		0.738740
+------------------------------
+Elapsed time is 0.013971 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingd, LayerTransferFunction = radbas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.733600
+Sensitivity		0.119744
+Specificity		0.952159
+Average		0.535951
+------------------------------
+Elapsed time is 0.013445 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingda, LayerTransferFunction = radbas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.756560
+Sensitivity		0.110908
+Specificity		0.986440
+Average		0.548674
+------------------------------
+Elapsed time is 0.014387 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdm, LayerTransferFunction = radbas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.739600
+Sensitivity		0.011578
+Specificity		0.998807
+Average		0.505192
+------------------------------
+Elapsed time is 0.015537 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdx, LayerTransferFunction = radbas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.809440
+Sensitivity		0.376904
+Specificity		0.963441
+Average		0.670173
+------------------------------
+Elapsed time is 0.013440 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainoss, LayerTransferFunction = radbas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------------------------
+Elapsed time is 0.014557 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainrp, LayerTransferFunction = radbas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------------------------
+Elapsed time is 0.013086 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = radbas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.830080
+Sensitivity		0.631018
+Specificity		0.900955
+Average		0.765986
+------------------------------
+Combination(TrainFunction = trainb, LayerTransferFunction = radbas)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainc, LayerTransferFunction = radbas)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainr, LayerTransferFunction = radbas)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trains, LayerTransferFunction = radbas)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainlm, LayerTransferFunction = radbasn)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainbr, LayerTransferFunction = radbasn)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainbfg, LayerTransferFunction = radbasn)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = traincgb, LayerTransferFunction = radbasn)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = traincgf, LayerTransferFunction = radbasn)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = traincgp, LayerTransferFunction = radbasn)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = traingd, LayerTransferFunction = radbasn)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = traingda, LayerTransferFunction = radbasn)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = traingdm, LayerTransferFunction = radbasn)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = traingdx, LayerTransferFunction = radbasn)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainoss, LayerTransferFunction = radbasn)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainrp, LayerTransferFunction = radbasn)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainscg, LayerTransferFunction = radbasn)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainb, LayerTransferFunction = radbasn)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainc, LayerTransferFunction = radbasn)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainr, LayerTransferFunction = radbasn)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trains, LayerTransferFunction = radbasn)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.013664 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainlm, LayerTransferFunction = satlin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.836960
+Sensitivity		0.634065
+Specificity		0.909199
+Average		0.771632
+------------------------------
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.015223 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainbr, LayerTransferFunction = satlin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.691600
+Sensitivity		0.248324
+Specificity		0.849425
+Average		0.548875
+------------------------------
+Combination(TrainFunction = trainbfg, LayerTransferFunction = satlin)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Elapsed time is 0.012876 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgb, LayerTransferFunction = satlin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------------------------
+Elapsed time is 0.013235 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgf, LayerTransferFunction = satlin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------------------------
+Elapsed time is 0.013143 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgp, LayerTransferFunction = satlin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------------------------
+Elapsed time is 0.013553 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingd, LayerTransferFunction = satlin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.809600
+Sensitivity		0.388178
+Specificity		0.959644
+Average		0.673911
+------------------------------
+Elapsed time is 0.013979 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingda, LayerTransferFunction = satlin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.755280
+Sensitivity		0.080439
+Specificity		0.995552
+Average		0.537995
+------------------------------
+Elapsed time is 0.014507 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdm, LayerTransferFunction = satlin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.706880
+Sensitivity		0.099939
+Specificity		0.922977
+Average		0.511458
+------------------------------
+Elapsed time is 0.015151 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdx, LayerTransferFunction = satlin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.737120
+Sensitivity		0.000000
+Specificity		0.999566
+Average		0.499783
+------------------------------
+Elapsed time is 0.012692 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainoss, LayerTransferFunction = satlin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------------------------
+Elapsed time is 0.016595 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainrp, LayerTransferFunction = satlin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.828000
+Sensitivity		0.705667
+Specificity		0.871556
+Average		0.788611
+------------------------------
+Elapsed time is 0.014137 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = satlin)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.830000
+Sensitivity		0.608470
+Specificity		0.908874
+Average		0.758672
+------------------------------
+Combination(TrainFunction = trainb, LayerTransferFunction = satlin)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainc, LayerTransferFunction = satlin)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainr, LayerTransferFunction = satlin)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trains, LayerTransferFunction = satlin)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.013846 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainlm, LayerTransferFunction = satlins)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.836800
+Sensitivity		0.541743
+Specificity		0.941853
+Average		0.741798
+------------------------------
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.013293 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainbr, LayerTransferFunction = satlins)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.578880
+Sensitivity		0.159963
+Specificity		0.728032
+Average		0.443998
+------------------------------
+Combination(TrainFunction = trainbfg, LayerTransferFunction = satlins)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Elapsed time is 0.013037 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgb, LayerTransferFunction = satlins)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.829280
+Sensitivity		0.581048
+Specificity		0.917661
+Average		0.749355
+------------------------------
+Elapsed time is 0.015770 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgf, LayerTransferFunction = satlins)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.828480
+Sensitivity		0.587142
+Specificity		0.914407
+Average		0.750774
+------------------------------
+Elapsed time is 0.011827 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgp, LayerTransferFunction = satlins)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.835680
+Sensitivity		0.613041
+Specificity		0.914949
+Average		0.763995
+------------------------------
+Elapsed time is 0.012972 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingd, LayerTransferFunction = satlins)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.784000
+Sensitivity		0.480500
+Specificity		0.892059
+Average		0.686279
+------------------------------
+Elapsed time is 0.016951 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingda, LayerTransferFunction = satlins)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.738320
+Sensitivity		0.044790
+Specificity		0.985246
+Average		0.515018
+------------------------------
+Elapsed time is 0.013774 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdm, LayerTransferFunction = satlins)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.702720
+Sensitivity		0.107252
+Specificity		0.914732
+Average		0.510992
+------------------------------
+Elapsed time is 0.014384 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdx, LayerTransferFunction = satlins)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.716800
+Sensitivity		0.113346
+Specificity		0.931655
+Average		0.522500
+------------------------------
+Elapsed time is 0.015290 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainoss, LayerTransferFunction = satlins)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.830880
+Sensitivity		0.569775
+Specificity		0.923845
+Average		0.746810
+------------------------------
+Elapsed time is 0.013092 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainrp, LayerTransferFunction = satlins)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------------------------
+Elapsed time is 0.013343 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = satlins)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.836240
+Sensitivity		0.552102
+Specificity		0.937405
+Average		0.744754
+------------------------------
+Combination(TrainFunction = trainb, LayerTransferFunction = satlins)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainc, LayerTransferFunction = satlins)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainr, LayerTransferFunction = satlins)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trains, LayerTransferFunction = satlins)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainlm, LayerTransferFunction = softmax)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainbr, LayerTransferFunction = softmax)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainbfg, LayerTransferFunction = softmax)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = traincgb, LayerTransferFunction = softmax)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = traincgf, LayerTransferFunction = softmax)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = traincgp, LayerTransferFunction = softmax)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = traingd, LayerTransferFunction = softmax)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = traingda, LayerTransferFunction = softmax)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = traingdm, LayerTransferFunction = softmax)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = traingdx, LayerTransferFunction = softmax)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainoss, LayerTransferFunction = softmax)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainrp, LayerTransferFunction = softmax)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainscg, LayerTransferFunction = softmax)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainb, LayerTransferFunction = softmax)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainc, LayerTransferFunction = softmax)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainr, LayerTransferFunction = softmax)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trains, LayerTransferFunction = softmax)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.014425 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainlm, LayerTransferFunction = tansig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.823280
+Sensitivity		0.560938
+Specificity		0.916685
+Average		0.738812
+------------------------------
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.015867 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainbr, LayerTransferFunction = tansig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.650160
+Sensitivity		0.197745
+Specificity		0.811239
+Average		0.504492
+------------------------------
+Combination(TrainFunction = trainbfg, LayerTransferFunction = tansig)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Elapsed time is 0.011863 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgb, LayerTransferFunction = tansig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.830640
+Sensitivity		0.618221
+Specificity		0.906270
+Average		0.762245
+------------------------------
+Elapsed time is 0.012781 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgf, LayerTransferFunction = tansig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.830720
+Sensitivity		0.571603
+Specificity		0.922977
+Average		0.747290
+------------------------------
+Elapsed time is 0.018277 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgp, LayerTransferFunction = tansig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.827440
+Sensitivity		0.563071
+Specificity		0.921567
+Average		0.742319
+------------------------------
+Elapsed time is 0.014984 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingd, LayerTransferFunction = tansig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.804000
+Sensitivity		0.443023
+Specificity		0.932523
+Average		0.687773
+------------------------------
+Elapsed time is 0.015282 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingda, LayerTransferFunction = tansig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.758000
+Sensitivity		0.191042
+Specificity		0.959861
+Average		0.575452
+------------------------------
+Elapsed time is 0.014435 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdm, LayerTransferFunction = tansig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.588560
+Sensitivity		0.181292
+Specificity		0.733565
+Average		0.457428
+------------------------------
+Elapsed time is 0.013842 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdx, LayerTransferFunction = tansig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.750880
+Sensitivity		0.065509
+Specificity		0.994901
+Average		0.530205
+------------------------------
+Elapsed time is 0.014645 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainoss, LayerTransferFunction = tansig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------------------------
+Elapsed time is 0.012875 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainrp, LayerTransferFunction = tansig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------------------------
+Elapsed time is 0.012864 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = tansig)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.841360
+Sensitivity		0.567642
+Specificity		0.938815
+Average		0.753229
+------------------------------
+Combination(TrainFunction = trainb, LayerTransferFunction = tansig)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainc, LayerTransferFunction = tansig)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainr, LayerTransferFunction = tansig)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trains, LayerTransferFunction = tansig)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.014274 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainlm, LayerTransferFunction = tribas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831840
+Sensitivity		0.603900
+Specificity		0.912996
+Average		0.758448
+------------------------------
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Elapsed time is 0.014269 seconds.
+Finding Threshold
+Kfold = 1
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 2
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 3
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 4
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
+Kfold = 5
+NOTICE: Jacobian training not supported on GPU. Training function set to TRAINSCG.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainbr, LayerTransferFunction = tribas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.567280
+Sensitivity		0.078306
+Specificity		0.741376
+Average		0.409841
+------------------------------
+Combination(TrainFunction = trainbfg, LayerTransferFunction = tribas)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Elapsed time is 0.014094 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgb, LayerTransferFunction = tribas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------------------------
+Elapsed time is 0.015060 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgf, LayerTransferFunction = tribas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------------------------
+Elapsed time is 0.015125 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traincgp, LayerTransferFunction = tribas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------------------------
+Elapsed time is 0.013123 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingd, LayerTransferFunction = tribas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.742880
+Sensitivity		0.026813
+Specificity		0.997830
+Average		0.512322
+------------------------------
+Elapsed time is 0.014075 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingda, LayerTransferFunction = tribas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.707120
+Sensitivity		0.032907
+Specificity		0.947169
+Average		0.490038
+------------------------------
+Elapsed time is 0.013131 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdm, LayerTransferFunction = tribas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.737440
+Sensitivity		0.000000
+Specificity		1.000000
+Average		0.500000
+------------------------------
+Elapsed time is 0.015119 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = traingdx, LayerTransferFunction = tribas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.737440
+Sensitivity		0.000000
+Specificity		1.000000
+Average		0.500000
+------------------------------
+Elapsed time is 0.015446 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainoss, LayerTransferFunction = tribas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------------------------
+Elapsed time is 0.015638 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainrp, LayerTransferFunction = tribas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------------------------
+Elapsed time is 0.013140 seconds.
+Finding Threshold
+Kfold = 1
+Kfold = 2
+Kfold = 3
+Kfold = 4
+Kfold = 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Combination(TrainFunction = trainscg, LayerTransferFunction = tribas)
+Non Corrected estimate...
+------------------------------
+Accuracy		0.828160
+Sensitivity		0.589580
+Specificity		0.913105
+Average		0.751342
+------------------------------
+Combination(TrainFunction = trainb, LayerTransferFunction = tribas)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainc, LayerTransferFunction = tribas)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trainr, LayerTransferFunction = tribas)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 
+Combination(TrainFunction = trains, LayerTransferFunction = tribas)
+[Warning: Ignore Last combination...] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('NNExperiment_time_x', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m', 201)" style="font-weight:bold">NNExperiment_time_x</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\CorrectedExperiments\NNExperiment_time_x.m',201,0)">line 201</a>)] 

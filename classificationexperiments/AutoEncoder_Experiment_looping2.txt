@@ -1,0 +1,7264 @@
+Time of Image size Conversion. 1000 Images...
+Elapsed time is 0.020304 seconds.
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.046200 seconds.
+Finding Threshold
+------------
+Accuracy		0.792000
+Sensitivity		0.579220
+Specificity		0.867759
+Average		0.723489
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043205 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044732 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.059812 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.050208 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.046491 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044427 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045380 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.046332 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045669 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045392 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043694 seconds.
+Finding Threshold
+------------
+Accuracy		0.787840
+Sensitivity		0.601158
+Specificity		0.854307
+Average		0.727732
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.047177 seconds.
+Finding Threshold
+------------
+Accuracy		0.785120
+Sensitivity		0.560938
+Specificity		0.864938
+Average		0.712938
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045850 seconds.
+Finding Threshold
+------------
+Accuracy		0.783280
+Sensitivity		0.531383
+Specificity		0.872966
+Average		0.702175
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045042 seconds.
+Finding Threshold
+------------
+Accuracy		0.778400
+Sensitivity		0.514321
+Specificity		0.872424
+Average		0.693372
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044902 seconds.
+Finding Threshold
+------------
+Accuracy		0.779600
+Sensitivity		0.544790
+Specificity		0.863202
+Average		0.703996
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044528 seconds.
+Finding Threshold
+------------
+Accuracy		0.788720
+Sensitivity		0.494820
+Specificity		0.893361
+Average		0.694091
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.049711 seconds.
+Finding Threshold
+------------
+Accuracy		0.786640
+Sensitivity		0.514930
+Specificity		0.883380
+Average		0.699155
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044222 seconds.
+Finding Threshold
+------------
+Accuracy		0.778960
+Sensitivity		0.482937
+Specificity		0.884357
+Average		0.683647
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043940 seconds.
+Finding Threshold
+------------
+Accuracy		0.780720
+Sensitivity		0.464046
+Specificity		0.893469
+Average		0.678758
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044430 seconds.
+Finding Threshold
+------------
+Accuracy		0.773520
+Sensitivity		0.454601
+Specificity		0.887069
+Average		0.670835
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043720 seconds.
+Finding Threshold
+------------
+Accuracy		0.775920
+Sensitivity		0.521024
+Specificity		0.866674
+Average		0.693849
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044438 seconds.
+Finding Threshold
+------------
+Accuracy		0.787600
+Sensitivity		0.565814
+Specificity		0.866565
+Average		0.716189
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044863 seconds.
+Finding Threshold
+------------
+Accuracy		0.790720
+Sensitivity		0.592017
+Specificity		0.861467
+Average		0.726742
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.048172 seconds.
+Finding Threshold
+------------
+Accuracy		0.784080
+Sensitivity		0.486594
+Specificity		0.889998
+Average		0.688296
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044815 seconds.
+Finding Threshold
+------------
+Accuracy		0.778400
+Sensitivity		0.517367
+Specificity		0.871339
+Average		0.694353
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043902 seconds.
+Finding Threshold
+------------
+Accuracy		0.776160
+Sensitivity		0.478367
+Specificity		0.882187
+Average		0.680277
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044635 seconds.
+Finding Threshold
+------------
+Accuracy		0.781040
+Sensitivity		0.593236
+Specificity		0.847906
+Average		0.720571
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045363 seconds.
+Finding Threshold
+------------
+Accuracy		0.775840
+Sensitivity		0.557587
+Specificity		0.853547
+Average		0.705567
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044352 seconds.
+Finding Threshold
+------------
+Accuracy		0.780640
+Sensitivity		0.541133
+Specificity		0.865915
+Average		0.703524
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043131 seconds.
+Finding Threshold
+------------
+Accuracy		0.779520
+Sensitivity		0.557587
+Specificity		0.858538
+Average		0.708062
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043031 seconds.
+Finding Threshold
+------------
+Accuracy		0.780720
+Sensitivity		0.499391
+Specificity		0.880885
+Average		0.690138
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043143 seconds.
+Finding Threshold
+------------
+Accuracy		0.786160
+Sensitivity		0.584704
+Specificity		0.857887
+Average		0.721296
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044597 seconds.
+Finding Threshold
+------------
+Accuracy		0.794080
+Sensitivity		0.563681
+Specificity		0.876112
+Average		0.719896
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043375 seconds.
+Finding Threshold
+------------
+Accuracy		0.782640
+Sensitivity		0.528336
+Specificity		0.873183
+Average		0.700760
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044185 seconds.
+Finding Threshold
+------------
+Accuracy		0.779440
+Sensitivity		0.523461
+Specificity		0.870579
+Average		0.697020
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043763 seconds.
+Finding Threshold
+------------
+Accuracy		0.779680
+Sensitivity		0.517672
+Specificity		0.872966
+Average		0.695319
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044035 seconds.
+Finding Threshold
+------------
+Accuracy		0.786400
+Sensitivity		0.508836
+Specificity		0.885225
+Average		0.697030
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045323 seconds.
+Finding Threshold
+------------
+Accuracy		0.782480
+Sensitivity		0.512797
+Specificity		0.878499
+Average		0.695648
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044686 seconds.
+Finding Threshold
+------------
+Accuracy		0.784720
+Sensitivity		0.515235
+Specificity		0.880668
+Average		0.697951
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044129 seconds.
+Finding Threshold
+------------
+Accuracy		0.774320
+Sensitivity		0.473796
+Specificity		0.881319
+Average		0.677558
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044669 seconds.
+Finding Threshold
+------------
+Accuracy		0.784880
+Sensitivity		0.549665
+Specificity		0.868627
+Average		0.709146
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044571 seconds.
+Finding Threshold
+------------
+Accuracy		0.779360
+Sensitivity		0.470445
+Specificity		0.889347
+Average		0.679896
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044096 seconds.
+Finding Threshold
+------------
+Accuracy		0.781840
+Sensitivity		0.559110
+Specificity		0.861141
+Average		0.710126
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044765 seconds.
+Finding Threshold
+------------
+Accuracy		0.789200
+Sensitivity		0.498172
+Specificity		0.892818
+Average		0.695495
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044502 seconds.
+Finding Threshold
+------------
+Accuracy		0.778480
+Sensitivity		0.523157
+Specificity		0.869386
+Average		0.696271
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045233 seconds.
+Finding Threshold
+------------
+Accuracy		0.781280
+Sensitivity		0.550884
+Specificity		0.863311
+Average		0.707097
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044532 seconds.
+Finding Threshold
+------------
+Accuracy		0.779600
+Sensitivity		0.531383
+Specificity		0.867976
+Average		0.699680
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044680 seconds.
+Finding Threshold
+------------
+Accuracy		0.789120
+Sensitivity		0.588970
+Specificity		0.860382
+Average		0.724676
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044638 seconds.
+Finding Threshold
+------------
+Accuracy		0.785280
+Sensitivity		0.644729
+Specificity		0.835322
+Average		0.740026
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044329 seconds.
+Finding Threshold
+------------
+Accuracy		0.780720
+Sensitivity		0.455820
+Specificity		0.896398
+Average		0.676109
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043773 seconds.
+Finding Threshold
+------------
+Accuracy		0.781200
+Sensitivity		0.529860
+Specificity		0.870688
+Average		0.700274
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.040597 seconds.
+Finding Threshold
+------------
+Accuracy		0.776640
+Sensitivity		0.514625
+Specificity		0.869928
+Average		0.692277
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044015 seconds.
+Finding Threshold
+------------
+Accuracy		0.789040
+Sensitivity		0.513711
+Specificity		0.887069
+Average		0.700390
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.046228 seconds.
+Finding Threshold
+------------
+Accuracy		0.768800
+Sensitivity		0.443023
+Specificity		0.884791
+Average		0.663907
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044707 seconds.
+Finding Threshold
+------------
+Accuracy		0.788320
+Sensitivity		0.534735
+Specificity		0.878607
+Average		0.706671
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045646 seconds.
+Finding Threshold
+------------
+Accuracy		0.787040
+Sensitivity		0.536563
+Specificity		0.876220
+Average		0.706392
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044581 seconds.
+Finding Threshold
+------------
+Accuracy		0.784160
+Sensitivity		0.543876
+Specificity		0.869711
+Average		0.706794
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043772 seconds.
+Finding Threshold
+------------
+Accuracy		0.786320
+Sensitivity		0.585314
+Specificity		0.857887
+Average		0.721600
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045073 seconds.
+Finding Threshold
+------------
+Accuracy		0.785120
+Sensitivity		0.528336
+Specificity		0.876546
+Average		0.702441
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043918 seconds.
+Finding Threshold
+------------
+Accuracy		0.789040
+Sensitivity		0.575259
+Specificity		0.865155
+Average		0.720207
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044417 seconds.
+Finding Threshold
+------------
+Accuracy		0.783120
+Sensitivity		0.557892
+Specificity		0.863311
+Average		0.710601
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043594 seconds.
+Finding Threshold
+------------
+Accuracy		0.782240
+Sensitivity		0.499086
+Specificity		0.883055
+Average		0.691070
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044661 seconds.
+Finding Threshold
+------------
+Accuracy		0.784320
+Sensitivity		0.652956
+Specificity		0.831091
+Average		0.742023
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045067 seconds.
+Finding Threshold
+------------
+Accuracy		0.777840
+Sensitivity		0.541743
+Specificity		0.861901
+Average		0.701822
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044340 seconds.
+Finding Threshold
+------------
+Accuracy		0.775120
+Sensitivity		0.449116
+Specificity		0.891191
+Average		0.670154
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043575 seconds.
+Finding Threshold
+------------
+Accuracy		0.795120
+Sensitivity		0.551188
+Specificity		0.881970
+Average		0.716579
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045705 seconds.
+Finding Threshold
+------------
+Accuracy		0.787600
+Sensitivity		0.506094
+Specificity		0.887828
+Average		0.696961
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044088 seconds.
+Finding Threshold
+------------
+Accuracy		0.784720
+Sensitivity		0.589580
+Specificity		0.854198
+Average		0.721889
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044460 seconds.
+Finding Threshold
+------------
+Accuracy		0.777040
+Sensitivity		0.552102
+Specificity		0.857127
+Average		0.704615
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044675 seconds.
+Finding Threshold
+------------
+Accuracy		0.785120
+Sensitivity		0.600244
+Specificity		0.850944
+Average		0.725594
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044974 seconds.
+Finding Threshold
+------------
+Accuracy		0.791840
+Sensitivity		0.552712
+Specificity		0.876980
+Average		0.714846
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044282 seconds.
+Finding Threshold
+------------
+Accuracy		0.781920
+Sensitivity		0.570384
+Specificity		0.857236
+Average		0.713810
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044017 seconds.
+Finding Threshold
+------------
+Accuracy		0.784640
+Sensitivity		0.606947
+Specificity		0.847906
+Average		0.727427
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044502 seconds.
+Finding Threshold
+------------
+Accuracy		0.792800
+Sensitivity		0.583486
+Specificity		0.867325
+Average		0.725405
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045080 seconds.
+Finding Threshold
+------------
+Accuracy		0.778160
+Sensitivity		0.530469
+Specificity		0.866348
+Average		0.698409
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044126 seconds.
+Finding Threshold
+------------
+Accuracy		0.783040
+Sensitivity		0.567946
+Specificity		0.859622
+Average		0.713784
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044899 seconds.
+Finding Threshold
+------------
+Accuracy		0.788960
+Sensitivity		0.557892
+Specificity		0.871230
+Average		0.714561
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.700000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044818 seconds.
+Finding Threshold
+------------
+Accuracy		0.786240
+Sensitivity		0.477757
+Specificity		0.896073
+Average		0.686915
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.700000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045325 seconds.
+Finding Threshold
+------------
+Accuracy		0.787280
+Sensitivity		0.578306
+Specificity		0.861684
+Average		0.719995
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.700000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045532 seconds.
+Finding Threshold
+------------
+Accuracy		0.781040
+Sensitivity		0.523461
+Specificity		0.872749
+Average		0.698105
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.700000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043361 seconds.
+Finding Threshold
+------------
+Accuracy		0.795600
+Sensitivity		0.564290
+Specificity		0.877956
+Average		0.721123
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.700000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044735 seconds.
+Finding Threshold
+------------
+Accuracy		0.786080
+Sensitivity		0.497867
+Specificity		0.888696
+Average		0.693282
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.700000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044759 seconds.
+Finding Threshold
+------------
+Accuracy		0.787680
+Sensitivity		0.536258
+Specificity		0.877197
+Average		0.706728
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.700000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045231 seconds.
+Finding Threshold
+------------
+Accuracy		0.782240
+Sensitivity		0.530469
+Specificity		0.871881
+Average		0.701175
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.700000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044822 seconds.
+Finding Threshold
+------------
+Accuracy		0.821920
+Sensitivity		0.629190
+Specificity		0.890540
+Average		0.759865
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.700000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045245 seconds.
+Finding Threshold
+------------
+Accuracy		0.778880
+Sensitivity		0.527727
+Specificity		0.868301
+Average		0.698014
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.700000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045071 seconds.
+Finding Threshold
+------------
+Accuracy		0.780720
+Sensitivity		0.507922
+Specificity		0.877848
+Average		0.692885
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.700000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045756 seconds.
+Finding Threshold
+------------
+Accuracy		0.790560
+Sensitivity		0.575868
+Specificity		0.866999
+Average		0.721434
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.800000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044218 seconds.
+Finding Threshold
+------------
+Accuracy		0.795680
+Sensitivity		0.559110
+Specificity		0.879909
+Average		0.719510
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.800000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043662 seconds.
+Finding Threshold
+------------
+Accuracy		0.783360
+Sensitivity		0.537782
+Specificity		0.870796
+Average		0.704289
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.800000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043236 seconds.
+Finding Threshold
+------------
+Accuracy		0.777600
+Sensitivity		0.491164
+Specificity		0.879583
+Average		0.685374
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.800000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.048636 seconds.
+Finding Threshold
+------------
+Accuracy		0.784960
+Sensitivity		0.561243
+Specificity		0.864613
+Average		0.712928
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.800000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.040546 seconds.
+Finding Threshold
+------------
+Accuracy		0.787760
+Sensitivity		0.636807
+Specificity		0.841506
+Average		0.739156
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.800000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.046623 seconds.
+Finding Threshold
+------------
+Accuracy		0.783920
+Sensitivity		0.520110
+Specificity		0.877848
+Average		0.698979
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.800000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045379 seconds.
+Finding Threshold
+------------
+Accuracy		0.781120
+Sensitivity		0.488117
+Specificity		0.885442
+Average		0.686779
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.800000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043647 seconds.
+Finding Threshold
+------------
+Accuracy		0.782640
+Sensitivity		0.563985
+Specificity		0.860490
+Average		0.712238
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.800000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043534 seconds.
+Finding Threshold
+------------
+Accuracy		0.790080
+Sensitivity		0.589275
+Specificity		0.861575
+Average		0.725425
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.800000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045327 seconds.
+Finding Threshold
+------------
+Accuracy		0.779680
+Sensitivity		0.497562
+Specificity		0.880126
+Average		0.688844
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.800000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044550 seconds.
+Finding Threshold
+------------
+Accuracy		0.794560
+Sensitivity		0.559110
+Specificity		0.878390
+Average		0.718750
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.900000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044457 seconds.
+Finding Threshold
+------------
+Accuracy		0.788320
+Sensitivity		0.519805
+Specificity		0.883923
+Average		0.701864
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.900000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043397 seconds.
+Finding Threshold
+------------
+Accuracy		0.789280
+Sensitivity		0.545399
+Specificity		0.876112
+Average		0.710756
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.900000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043357 seconds.
+Finding Threshold
+------------
+Accuracy		0.787840
+Sensitivity		0.483242
+Specificity		0.896290
+Average		0.689766
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.900000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.048968 seconds.
+Finding Threshold
+------------
+Accuracy		0.793360
+Sensitivity		0.607861
+Specificity		0.859406
+Average		0.733633
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.900000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045087 seconds.
+Finding Threshold
+------------
+Accuracy		0.786960
+Sensitivity		0.524680
+Specificity		0.880343
+Average		0.702511
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.900000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044945 seconds.
+Finding Threshold
+------------
+Accuracy		0.802960
+Sensitivity		0.540829
+Specificity		0.896290
+Average		0.718559
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.900000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045036 seconds.
+Finding Threshold
+------------
+Accuracy		0.792560
+Sensitivity		0.611822
+Specificity		0.856910
+Average		0.734366
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.900000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045022 seconds.
+Finding Threshold
+------------
+Accuracy		0.799440
+Sensitivity		0.537477
+Specificity		0.892710
+Average		0.715094
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.900000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.048592 seconds.
+Finding Threshold
+------------
+Accuracy		0.786480
+Sensitivity		0.602986
+Specificity		0.851812
+Average		0.727399
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.900000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044596 seconds.
+Finding Threshold
+------------
+Accuracy		0.786320
+Sensitivity		0.529250
+Specificity		0.877848
+Average		0.703549
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	0.900000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044085 seconds.
+Finding Threshold
+------------
+Accuracy		0.790240
+Sensitivity		0.511578
+Specificity		0.889455
+Average		0.700517
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	1.000000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044575 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	1.000000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043277 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	1.000000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044129 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	1.000000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.048909 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	1.000000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045312 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	1.000000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043565 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	1.000000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044014 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	1.000000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043339 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	1.000000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043687 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	1.000000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044514 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.000000
+LossFunction	msesparse
+SparsityProportion	1.000000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044683 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044350 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043872 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043064 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045235 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043908 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044362 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045753 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043602 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044201 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.046113 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043081 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.046694 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043239 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043711 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044501 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045720 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043107 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044334 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044094 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.041610 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044802 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044561 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045084 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045329 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044337 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044643 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044428 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.040377 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045199 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044219 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044483 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044432 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045637 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044028 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044370 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044647 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045310 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044223 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045448 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044853 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043711 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043603 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044447 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043419 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044375 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044871 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.041295 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044221 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.040633 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044175 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045307 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044816 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043677 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044102 seconds.
+Finding Threshold
+------------
+Accuracy		0.815840
+Sensitivity		0.571907
+Specificity		0.902690
+Average		0.737299
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044737 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043619 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.041237 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043825 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045054 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044886 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044018 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044984 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043600 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044194 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043520 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044100 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043812 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044327 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044128 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044984 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044870 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045172 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044214 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044311 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044541 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044029 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044310 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.700000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044675 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.700000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043744 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.700000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044892 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.700000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043680 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.700000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043936 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.700000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.041755 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.700000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044700 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.700000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045213 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.700000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045126 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.700000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043979 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.700000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043213 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.800000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044902 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.800000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044854 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.800000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043519 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.800000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044054 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.800000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043862 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.800000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044494 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.800000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045610 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.800000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.046024 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.800000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043855 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.800000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043692 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.800000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044494 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.900000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044406 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.900000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044893 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.900000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043220 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.900000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044350 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.900000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043376 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.900000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.048786 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.900000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044640 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.900000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045129 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.900000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044051 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.900000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044432 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	0.900000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044273 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	1.000000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043946 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	1.000000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044404 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	1.000000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045616 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	1.000000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044331 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	1.000000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043799 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	1.000000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044407 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	1.000000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.040382 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	1.000000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045174 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	1.000000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045332 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	1.000000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045054 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.050000
+LossFunction	msesparse
+SparsityProportion	1.000000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.047385 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044040 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045727 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044108 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043540 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044433 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044234 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044672 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044925 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044015 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044515 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.000000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044215 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044528 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.042932 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044193 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.047569 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043906 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044426 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043498 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045704 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044097 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044038 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.100000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045771 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.050634 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044569 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045252 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043503 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044138 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045553 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044146 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044886 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045564 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044170 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.200000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043707 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043409 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044559 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.048427 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044384 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.046440 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.048532 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044030 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044128 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043348 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045071 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.300000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045549 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044473 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044583 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044090 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.049985 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044219 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044630 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044202 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044177 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044231 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.041343 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.400000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044190 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044102 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043782 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044611 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044087 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044826 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045016 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	6.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044219 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	7.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043644 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	8.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.045250 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	9.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044866 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.500000
+SparsityRegularization	10.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044365 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	0.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044861 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	1.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.044933 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	2.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.043648 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	3.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.046873 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	4.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+AutoEncoder 2
+AutoEncoder 3
+AutoEncoder 4
+AutoEncoder 5
+softmax
+Time of estimated values for 500 images...
+Elapsed time is 0.050036 seconds.
+Finding Threshold
+------------
+Accuracy		0.831520
+Sensitivity		0.636197
+Specificity		0.901063
+Average		0.768630
+------------
+Loop Values
+EncoderTransferFunction	logsig
+DecoderTransferFunction	logsig
+L2WeightRegularization	0.100000
+LossFunction	msesparse
+SparsityProportion	0.600000
+SparsityRegularization	5.000000
+TrainingAlgorithm	trainscg
+AutoEncoder 1
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnGPUOp.bg', 'C:\Program Files\MATLAB\R2016b\toolbox\nnet\nnet\nnderivative\+nnGPUOp\bg.m', 265)" style="font-weight:bold">nnGPUOp.bg</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016b\toolbox\nnet\nnet\nnderivative\+nnGPUOp\bg.m',265,0)">line 265</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnGPUOp.grad', 'C:\Program Files\MATLAB\R2016b\toolbox\nnet\nnet\nnderivative\+nnGPUOp\grad.m', 5)" style="font-weight:bold">nnGPUOp.grad</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016b\toolbox\nnet\nnet\nnderivative\+nnGPUOp\grad.m',5,0)">line 5</a>)
+[gWB,trainPerf,trainN] = nnGPUOp.bg ...
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnCalcLib/grad', 'C:\Program Files\MATLAB\R2016b\toolbox\nnet\nnet\nnderivative\nnCalcLib.m', 219)" style="font-weight:bold">nnCalcLib/grad</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016b\toolbox\nnet\nnet\nnderivative\nnCalcLib.m',219,0)">line 219</a>)
+            [gWB,trainPerf,trainN] = lib.calcMode.grad(calcNet,lib.calcData,lib.calcHints);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('trainscg>trainingIteration', 'C:\Program Files\MATLAB\R2016b\toolbox\nnet\nnet\nntrain\trainscg.m', 247)" style="font-weight:bold">trainscg>trainingIteration</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016b\toolbox\nnet\nnet\nntrain\trainscg.m',247,0)">line 247</a>)
+    gWB_temp = calcLib.grad(net_temp);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.train.trainNetwork>trainNetworkInMainThread', 'C:\Program Files\MATLAB\R2016b\toolbox\nnet\nnet\+nnet\+train\trainNetwork.m', 50)" style="font-weight:bold">nnet.train.trainNetwork>trainNetworkInMainThread</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016b\toolbox\nnet\nnet\+nnet\+train\trainNetwork.m',50,0)">line 50</a>)
+    [worker,calcNet] = localFcns.trainingIteration(worker,calcLib,calcNet);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('nnet.train.trainNetwork', 'C:\Program Files\MATLAB\R2016b\toolbox\nnet\nnet\+nnet\+train\trainNetwork.m', 16)" style="font-weight:bold">nnet.train.trainNetwork</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016b\toolbox\nnet\nnet\+nnet\+train\trainNetwork.m',16,0)">line 16</a>)
+    [archNet,tr] =
+    trainNetworkInMainThread(archNet,rawData,calcLib,calcNet,tr,feedback,localFcns);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('trainscg>train_network', 'C:\Program Files\MATLAB\R2016b\toolbox\nnet\nnet\nntrain\trainscg.m', 149)" style="font-weight:bold">trainscg>train_network</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016b\toolbox\nnet\nnet\nntrain\trainscg.m',149,0)">line 149</a>)
+[archNet,tr] = nnet.train.trainNetwork(archNet,rawData,calcLib,calcNet,tr,localfunctions);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('trainscg', 'C:\Program Files\MATLAB\R2016b\toolbox\nnet\nnet\nntrain\trainscg.m', 59)" style="font-weight:bold">trainscg</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016b\toolbox\nnet\nnet\nntrain\trainscg.m',59,0)">line 59</a>)
+            [out1,out2] = train_network(varargin{2:end});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('network/train', 'C:\Program Files\MATLAB\R2016b\toolbox\nnet\nnet\@network\train.m', 369)" style="font-weight:bold">network/train</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016b\toolbox\nnet\nnet\@network\train.m',369,0)">line 369</a>)
+    [net,tr] = feval(trainFcn,'apply',net,data,calcLib,calcNet,tr);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Autoencoder.train', 'C:\Program Files\MATLAB\R2016b\toolbox\nnet\nnet\nnnetwork\Autoencoder.m', 507)" style="font-weight:bold">Autoencoder.train</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016b\toolbox\nnet\nnet\nnnetwork\Autoencoder.m',507,0)">line 507</a>)
+            net = train(net,X,X,'useGPU',iYesOrNo(useGPU));
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('trainAutoencoder', 'C:\Program Files\MATLAB\R2016b\toolbox\nnet\nnet\nnnetwork\trainAutoencoder.m', 105)" style="font-weight:bold">trainAutoencoder</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016b\toolbox\nnet\nnet\nnnetwork\trainAutoencoder.m',105,0)">line 105</a>)
+autoenc = Autoencoder.train(X, autonet, paramsStruct.UseGPU);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('AutoEncoder_Experiment_looping', 'C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\AutoEncoder_Experiment_looping.m', 56)" style="font-weight:bold">AutoEncoder_Experiment_looping</a> (<a href="matlab: opentoline('C:\Users\adam.DISI\Desktop\JasimKHANafridi\classificationexperiments\3-Experimenting\AutoEncoder_Experiment_looping.m',56,0)">line 56</a>)
+                                AutoEncoder1 = trainAutoencoder(Train_Images_autoEncoder_this,
+                                hiddensize_1, 'UseGPU', true, 'ShowProgressWindow', true, ...
+} 
+diary off

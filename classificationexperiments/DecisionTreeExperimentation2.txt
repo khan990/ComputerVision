@@ -1,0 +1,1076 @@
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.242480 seconds.
+------------
+Accuracy		0.640636
+Sensitivity		0.685390
+Specificity		0.621803
+Average		0.653596
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		gdi
+Surrogate		on
+Prune		on
+Prior		uniform
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.055678 seconds.
+------------
+Accuracy		0.826636
+Sensitivity		0.647944
+Specificity		0.901834
+Average		0.774889
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		gdi
+Surrogate		on
+Prune		on
+Prior		empirical
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.058091 seconds.
+------------
+Accuracy		0.640636
+Sensitivity		0.685390
+Specificity		0.621803
+Average		0.653596
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		gdi
+Surrogate		on
+Prune		off
+Prior		uniform
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.046989 seconds.
+------------
+Accuracy		0.826636
+Sensitivity		0.647944
+Specificity		0.901834
+Average		0.774889
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		gdi
+Surrogate		on
+Prune		off
+Prior		empirical
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.069441 seconds.
+------------
+Accuracy		0.640636
+Sensitivity		0.685390
+Specificity		0.621803
+Average		0.653596
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		gdi
+Surrogate		all
+Prune		on
+Prior		uniform
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.054904 seconds.
+------------
+Accuracy		0.826636
+Sensitivity		0.647944
+Specificity		0.901834
+Average		0.774889
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		gdi
+Surrogate		all
+Prune		on
+Prior		empirical
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.067265 seconds.
+------------
+Accuracy		0.640636
+Sensitivity		0.685390
+Specificity		0.621803
+Average		0.653596
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		gdi
+Surrogate		all
+Prune		off
+Prior		uniform
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.051452 seconds.
+------------
+Accuracy		0.826636
+Sensitivity		0.647944
+Specificity		0.901834
+Average		0.774889
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		gdi
+Surrogate		all
+Prune		off
+Prior		empirical
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.053980 seconds.
+------------
+Accuracy		0.640636
+Sensitivity		0.685390
+Specificity		0.621803
+Average		0.653596
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		gdi
+Surrogate		off
+Prune		on
+Prior		uniform
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.049384 seconds.
+------------
+Accuracy		0.826636
+Sensitivity		0.647944
+Specificity		0.901834
+Average		0.774889
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		gdi
+Surrogate		off
+Prune		on
+Prior		empirical
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.053440 seconds.
+------------
+Accuracy		0.640636
+Sensitivity		0.685390
+Specificity		0.621803
+Average		0.653596
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		gdi
+Surrogate		off
+Prune		off
+Prior		uniform
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.051662 seconds.
+------------
+Accuracy		0.826636
+Sensitivity		0.647944
+Specificity		0.901834
+Average		0.774889
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		gdi
+Surrogate		off
+Prune		off
+Prior		empirical
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.048765 seconds.
+------------
+Accuracy		0.640636
+Sensitivity		0.685390
+Specificity		0.621803
+Average		0.653596
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		twoing
+Surrogate		on
+Prune		on
+Prior		uniform
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.048643 seconds.
+------------
+Accuracy		0.826636
+Sensitivity		0.647944
+Specificity		0.901834
+Average		0.774889
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		twoing
+Surrogate		on
+Prune		on
+Prior		empirical
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.050012 seconds.
+------------
+Accuracy		0.640636
+Sensitivity		0.685390
+Specificity		0.621803
+Average		0.653596
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		twoing
+Surrogate		on
+Prune		off
+Prior		uniform
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.046591 seconds.
+------------
+Accuracy		0.826636
+Sensitivity		0.647944
+Specificity		0.901834
+Average		0.774889
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		twoing
+Surrogate		on
+Prune		off
+Prior		empirical
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.066522 seconds.
+------------
+Accuracy		0.640636
+Sensitivity		0.685390
+Specificity		0.621803
+Average		0.653596
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		twoing
+Surrogate		all
+Prune		on
+Prior		uniform
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.055518 seconds.
+------------
+Accuracy		0.826636
+Sensitivity		0.647944
+Specificity		0.901834
+Average		0.774889
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		twoing
+Surrogate		all
+Prune		on
+Prior		empirical
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.065753 seconds.
+------------
+Accuracy		0.640636
+Sensitivity		0.685390
+Specificity		0.621803
+Average		0.653596
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		twoing
+Surrogate		all
+Prune		off
+Prior		uniform
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.053805 seconds.
+------------
+Accuracy		0.826636
+Sensitivity		0.647944
+Specificity		0.901834
+Average		0.774889
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		twoing
+Surrogate		all
+Prune		off
+Prior		empirical
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.050902 seconds.
+------------
+Accuracy		0.640636
+Sensitivity		0.685390
+Specificity		0.621803
+Average		0.653596
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		twoing
+Surrogate		off
+Prune		on
+Prior		uniform
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.047672 seconds.
+------------
+Accuracy		0.826636
+Sensitivity		0.647944
+Specificity		0.901834
+Average		0.774889
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		twoing
+Surrogate		off
+Prune		on
+Prior		empirical
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.048400 seconds.
+------------
+Accuracy		0.640636
+Sensitivity		0.685390
+Specificity		0.621803
+Average		0.653596
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		twoing
+Surrogate		off
+Prune		off
+Prior		uniform
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.051004 seconds.
+------------
+Accuracy		0.826636
+Sensitivity		0.647944
+Specificity		0.901834
+Average		0.774889
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		twoing
+Surrogate		off
+Prune		off
+Prior		empirical
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.049194 seconds.
+------------
+Accuracy		0.610818
+Sensitivity		0.730203
+Specificity		0.560579
+Average		0.645391
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		deviance
+Surrogate		on
+Prune		on
+Prior		uniform
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.046290 seconds.
+------------
+Accuracy		0.829909
+Sensitivity		0.576120
+Specificity		0.936709
+Average		0.756415
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		deviance
+Surrogate		on
+Prune		on
+Prior		empirical
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.048580 seconds.
+------------
+Accuracy		0.610818
+Sensitivity		0.730203
+Specificity		0.560579
+Average		0.645391
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		deviance
+Surrogate		on
+Prune		off
+Prior		uniform
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.047302 seconds.
+------------
+Accuracy		0.829909
+Sensitivity		0.576120
+Specificity		0.936709
+Average		0.756415
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		deviance
+Surrogate		on
+Prune		off
+Prior		empirical
+Training Class Number = 1
+Training Class Number = 2
+Training Class Number = 3
+Training Class Number = 4
+Training Class Number = 5
+Training Class Number = 6
+Training Class Number = 7
+Training Class Number = 8
+Training Class Number = 9
+Training Class Number = 10
+Training Class Number = 11
+Training Class Number = 12
+Training Class Number = 13
+Training Class Number = 14
+Training Class Number = 15
+Training Class Number = 16
+Training Class Number = 17
+Training Class Number = 18
+Training Class Number = 19
+Training Class Number = 20
+Training Class Number = 21
+Training Class Number = 22
+Elapsed time is 0.063244 seconds.
+------------
+Accuracy		0.610818
+Sensitivity		0.730203
+Specificity		0.560579
+Average		0.645391
+--------------------------------
+AlgorithmForCategorical		Exact
+MaxNumCategories		1
+MaxNumSplits		1
+ScoreTransform		doublelogit
+SplitCriterion		deviance
+Surrogate		all
+Prune		on
+Prior		uniform
+Training Class Number = 1
+Training Class Number = 2
+diary off;
